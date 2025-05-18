@@ -1,0 +1,1 @@
+{"name":"Local: A_String","url":"c:\\Users\\ASHISH KUMAR JHA\\Desktop\\CodeForces\\A_String.cpp","tests":[{"id":1747416462264,"input":"5\n1\n000\n1001\n10101\n01100101011101\n","output":"1\n0\n2\n3\n8\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASHISH KUMAR JHA\\Desktop\\CodeForces\\A_String.cpp","group":"local","local":true}
