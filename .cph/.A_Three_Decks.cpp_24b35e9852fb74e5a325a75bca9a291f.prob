@@ -1,0 +1,1 @@
+{"name":"Local: A_Three_Decks","url":"c:\\Users\\ASHISH KUMAR JHA\\Desktop\\CodeForces\\A_Three_Decks.cpp","tests":[{"id":1747826245674,"input":"4\n3 5 10\n12 20 30\n3 5 7\n1 5 6\n","output":"YES\nNO\nYES\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASHISH KUMAR JHA\\Desktop\\CodeForces\\A_Three_Decks.cpp","group":"local","local":true}
