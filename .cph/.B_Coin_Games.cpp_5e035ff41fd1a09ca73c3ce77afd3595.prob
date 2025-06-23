@@ -1,0 +1,1 @@
+{"name":"Local: B_Coin_Games","url":"c:\\Users\\ASHISH KUMAR JHA\\Desktop\\CodeForces\\B_Coin_Games.cpp","tests":[{"id":1750589293200,"input":"3\n5\nUUDUD\n5\nUDDUD\n2\nUU\n","output":"YES\nNO\nNO\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASHISH KUMAR JHA\\Desktop\\CodeForces\\B_Coin_Games.cpp","group":"local","local":true}
