@@ -1,0 +1,1 @@
+{"name":"Local: C_Combination_Lock","url":"c:\\Users\\ASHISH KUMAR JHA\\Desktop\\CodeForces\\C_Combination_Lock.cpp","tests":[{"id":1751439015648,"input":"3\n4\n5\n3\n","output":"-1\n4 1 3 5 2\n1 3 2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASHISH KUMAR JHA\\Desktop\\CodeForces\\C_Combination_Lock.cpp","group":"local","local":true}
