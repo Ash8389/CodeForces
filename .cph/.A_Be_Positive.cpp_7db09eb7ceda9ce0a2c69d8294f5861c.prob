@@ -1,0 +1,1 @@
+{"name":"Local: A_Be_Positive","url":"c:\\Users\\ASHISH KUMAR JHA\\Desktop\\CodeForces\\A_Be_Positive.cpp","tests":[{"id":1761408785180,"input":"3\n3\n-1 0 1\n4\n-1 -1 0 1\n5\n-1 -1 -1 0 0","output":"3\n1\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ASHISH KUMAR JHA\\Desktop\\CodeForces\\A_Be_Positive.cpp","group":"local","local":true}
